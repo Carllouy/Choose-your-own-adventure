@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Choose-your-own-adventure", "Choose-your-own-adventure\Choose-your-own-adventure.pyproj", "{F7D82D7C-6DEB-464F-BBB3-84EC9CAD55DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D82D7C-6DEB-464F-BBB3-84EC9CAD55DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D82D7C-6DEB-464F-BBB3-84EC9CAD55DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E4EC63D-432B-4ED9-9148-1355106AF190}
+	EndGlobalSection
+EndGlobal
